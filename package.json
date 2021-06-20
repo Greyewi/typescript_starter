@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "typescript": "^4.3.2"
+  },
+  "scripts": {
+    "compile": "tsc src/base_types.ts",
+    "start": "tsc src/base_types.ts && node src/base_types.js"
+  }
+}
